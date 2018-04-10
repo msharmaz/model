@@ -81,7 +81,7 @@ DATABASES = {
 
 
        #for mysql database
-'''
+"""
 
 DATABASES = {
     'default': {
@@ -93,8 +93,7 @@ DATABASES = {
         'PORT': 'may be default',
     }
 }
-'''
-
+"""
 
 
 
